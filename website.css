@@ -1,7 +1,9 @@
 body{
-    background-image:url("Messenger_creation_E6098D5E-873B-4C38-A76A-2CBA46B0266C.jpeg");
-    height:350px;
-    width:300px;
+    background-image: url(.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
 }
 h1{
     color: black ;
